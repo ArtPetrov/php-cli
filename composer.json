@@ -1,0 +1,5 @@
+{
+  "require": {
+    "artpetrov/math": "dev-master"
+  }
+}
